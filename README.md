@@ -12,16 +12,16 @@
 ### 3. Prime number
  Returns true if the given number is prime number, or false if not
 ### 4. Factorial of n
- Return the factorilal of n number
+ Returns the factorilal of n number
 ### 5. n-th Fibonacci element
- Return the n-th element of Fibanacci sequence
+ Returns the n-th element of Fibanacci sequence
 ### 6. Power
- Return a power of n
+ Returns a power of n
 ### 7. Reverse array
  Print reversed the given array
 ### 8. Is All Digits?
  Check if all words of the given string consist only digits
 ### 9. Binomial coefficient
- Return binomial coefficient of n and k
+ Returns binomial coefficient of n and k
 ### 10. GCD(a, b)
- Return GCD (Greatest common Divisor) between a and b 
+ Returns GCD (Greatest common Divisor) between a and b 
